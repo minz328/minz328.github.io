@@ -1,4 +1,3 @@
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=wDj0i3evQn3tIy2ZTGauFfmiHm4YuXSbK0gpJSH9rzI"></script>
 document.addEventListener('DOMContentLoaded', function () {
   const $blogName = document.getElementById('site-name')
   let blogNameWidth = $blogName && $blogName.offsetWidth

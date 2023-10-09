@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 About me
 ======
 I am a first-year Ph.d. candidate in the [School of Computing](https://computing.unl.edu/) at the [University of Nebraska-Lincoln](https://www.unl.edu/). My research interests covers several areas, including wireless network communication, distributed machine learning, and reinforcement learning.

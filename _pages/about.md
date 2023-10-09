@@ -11,7 +11,7 @@ About me
 ======
 I am a first-year Ph.d. candidate in the [School of Computing](https://computing.unl.edu/) at the [University of Nebraska-Lincoln](https://www.unl.edu/). My research interests covers several areas, including wireless network communication, distributed machine learning, and reinforcement learning.
 
-Currently, I hold the position of Gradated Research Assistant at [The Intelligent Network sysTem Laboratory](https://liuqiang12040913.github.io/project.html) under the guidance of [Dr. Qiang Liu](https://liuqiang12040913.github.io/index.html). I obtained my master's degree in Telecommunication Engineering at the Xi'dian University in 2023.
+Currently, I hold the position of Gradated Research Assistant at [The Intelligent Network sysTem Laboratory](https://liuqiang12040913.github.io/project.html) under the guidance of [Dr. Qiang Liu](https://liuqiang12040913.github.io/index.html). I obtained both my master's degree and bachelor's degree in Telecommunication Engineering at the Xi'dian University.
 
 A data-driven personal website
 ======

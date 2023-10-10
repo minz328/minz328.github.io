@@ -8,4 +8,3 @@ redirect_from:
 ---
 
 ------
-* Reviewer, Multimedia Tools and Applications, 2023

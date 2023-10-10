@@ -4,7 +4,7 @@ title: "service"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /service.html
 ---
 
 * Reviewer, Multimedia Tools and Applications, 2023

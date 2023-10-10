@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /service/
+title: "service"
 author_profile: true
 redirect_from: 
   - /md/

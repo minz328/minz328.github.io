@@ -7,4 +7,4 @@ tags:
   - photo
 ---
 Hi,I just want to test this page.
-![moon](/images/Mid_fall_moon.jpg)
+![moon](/images/moon.jpg)

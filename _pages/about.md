@@ -14,5 +14,4 @@ Currently, I hold the position of Gradated Research Assistant at [the Intelligen
 
 ------
 
-For more information, please see my CV.
-
+For more information, please see my CV [here](https://minz328.github.io/files/paper1.pdf).

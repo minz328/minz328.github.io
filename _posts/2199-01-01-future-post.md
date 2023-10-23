@@ -1,5 +1,5 @@
 ---
-title: 'a beautiful moon'
+title: 'A beautiful Moon'
 date: 2023-10-12
 permalink: /posts/2023/10/blog-post-1/
 tags:
@@ -7,4 +7,4 @@ tags:
   - photo
 ---
 Hi,I just want to test this page.
-![moon](/images/moon.jpg)
+![moon](/images/moon.png)

@@ -10,3 +10,5 @@ Hi,there. This is the first page. I just want to test this page.
 
 
 ![moon](/images/moon.png)
+
+This photo was taken last summer in Xi'an, China.

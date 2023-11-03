@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Xidian University, 2020
-* M.S. in Xidian University, 2023
-* Ph.D Candidate in University of Nebraska-Lincoln
+* B.S. in Xidian University, 2016~2020
+* M.S. in Xidian University, 2020~2023
+* Ph.D. Student in University of Nebraska-Lincoln, currently
 
 Work experience
 ======

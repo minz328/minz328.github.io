@@ -3,9 +3,6 @@ layout: archive
 title: " "
 permalink: /honorsawards/
 author_profile: true
-redirect_from: 
-  - /honorsawards/
-  - /honorsawards.html/
 ---
 
 {% include base_path %}

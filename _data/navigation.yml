@@ -13,9 +13,10 @@ main:
   #   url: /portfolio/
   - title: "About me"
     url: /
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+
+
+  - title: "Publications"
+    url: /publications/
     
   # - title: "CV"
   #   url: /cv/
@@ -23,8 +24,9 @@ main:
   - title: "Honors & Awards"
     url: /honorsawards/
 
-  - title: "Publications"
-    url: /publications/
+          
+  - title: "Blog Posts"
+    url: /year-archive/
   
   - title: "Service"
     url: /service/

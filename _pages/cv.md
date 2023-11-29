@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,9 +17,9 @@ Education
 
 Work experience
 ==========
-Graduate Research Assistant  2023 -- Present
-Research on federated learning in edge computing for autonomous driving and vehicular networks
-Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning
+* Graduate Research Assistant in University of Nebraska-Lincoln, 2023-Present
+  * Research on federated learning in edge computing for autonomous driving and vehicular networks
+  * Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning
 
 Honors and Rewards
 ==========

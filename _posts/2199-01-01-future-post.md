@@ -1,5 +1,5 @@
 ---
-title: 'A beautiful Moon'
+title: 'A beautiful Moon(page test)'
 date: 2023-10-12
 permalink: /posts/2023/10/blog-post-1/
 tags:

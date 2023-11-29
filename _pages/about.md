@@ -12,6 +12,21 @@ I am a first-year Ph.D student in the [School of Computing](https://computing.un
 
 Currently, I hold the position of Gradated Research Assistant at [the Intelligent Network sysTem (INT) Laboratory](https://liuqiang12040913.github.io/project.html) under the guidance of [Dr. Qiang Liu](https://liuqiang12040913.github.io/index.html). I obtained both my master's degree and bachelor's degree in Telecommunications Engineering from [Xidian University](https://en.xidian.edu.cn/) in 2023 and 2020, respectively.
 
+
+Education
+==========
+* B.S. in Xidian University, 2016-2020
+* M.S. in Xidian University, 2020-2023
+* Ph.D. Student in University of Nebraska-Lincoln, 2023-Present
+
+Work experience
+==========
+* Graduate Research Assistant in University of Nebraska-Lincoln, 2023-Present
+  * Research on federated learning in edge computing for autonomous driving and vehicular networks
+  * Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning
+
+
 ------
 
 For more information, please see my CV [here](https://minz328.github.io/files/paper1.pdf).
+

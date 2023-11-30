@@ -28,5 +28,5 @@ Work experience
 
 ------
 
-For more information, please see my CV [here](https://minz328.github.io/files/paper1.pdf).
+For more information, please see my CV [here](https://minz328.github.io/files/CV_Ming_Zhao.pdf).
 

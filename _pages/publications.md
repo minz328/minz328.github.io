@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+------
+
 1. <u>M. Zhao</u> , Y. Zhang, Q. Liu, “LiFi: Learn to Incentivize Federated Learning in Automotive Edge Computing”, in IEEE International Conference on Communications(submitted), https://arxiv.org/abs/2311.12720
 2. Y. Zhang, <u>M. Zhao</u>, Q. Liu, Nakjung Choi, “Learn to Augment Network Simulators Towards Digital Network Twins”, in IEEE International Conference on Communications(submitted), https://arxiv.org/abs/2311.12745
 3. <u>M. Zhao</u>, C. Chen, L. Liu, D. Lan, S. Wan,“Orbital collaborative learning in 6G space-air-ground integrated networks”, in Neurocomputing, Apr. 2022

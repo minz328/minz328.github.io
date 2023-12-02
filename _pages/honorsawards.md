@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+------
 
 * **Student Travel Grant** for the Workshop on Airborne Computing, University of Texas at Arlington, 2023
 * **Chancellor’s Fellowship Award**, University of Nebraska – Lincoln, 2023

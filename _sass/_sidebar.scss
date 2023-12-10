@@ -85,7 +85,7 @@
   img {
     max-width: 175px;
     // border-radius: 50% 75%;
-    clip-path: ellipse(50% 30% at 50% 50%);
+    clip-path: ellipse(10% 20% at 50% 50%);
 
     @include breakpoint($large) {
       padding: 5px;

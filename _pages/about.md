@@ -17,15 +17,15 @@ Currently, I hold the position of Gradated Research Assistant at [the Intelligen
 
 Education
 ==========
-* Ph.D. Student in Computer Science, University of Nebraska-Lincoln, 2023-Present
-* M.S. in Telecommunications Engineering, Xidian University, 2020-2023
-* B.S. in Telecommunications Engineering, Xidian University, 2016-2020
+* Ph.D. Student in Computer Science, University of Nebraska-Lincoln, Aug. 2023-Present
+* M.S. in Telecommunications Engineering, Xidian University, Aug. 2020-Jul. 2023
+* B.S. in Telecommunications Engineering, Xidian University, Aug. 2016-Jul. 2020
 
 
 
 Work experience
 ==========
-* Graduate Research Assistant in University of Nebraska-Lincoln, 2023-Present
+* Graduate Research Assistant in University of Nebraska-Lincoln, Aug. 2023-Present
   * Research on federated learning in edge computing for autonomous driving and vehicular networks
   * Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning
 

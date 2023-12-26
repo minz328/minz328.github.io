@@ -17,9 +17,11 @@ Currently, I hold the position of Gradated Research Assistant at [the Intelligen
 
 Education
 ==========
-* B.S. in Telecommunications Engineering, Xidian University, 2016-2020
-* M.S. in Telecommunications Engineering, Xidian University, 2020-2023
 * Ph.D. Student in Computer Science, University of Nebraska-Lincoln, 2023-Present
+* M.S. in Telecommunications Engineering, Xidian University, 2020-2023
+* B.S. in Telecommunications Engineering, Xidian University, 2016-2020
+
+
 
 Work experience
 ==========

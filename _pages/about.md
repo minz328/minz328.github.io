@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "hh"
+title: ""
 excerpt: ""
 author_profile: true
 sitemap: false

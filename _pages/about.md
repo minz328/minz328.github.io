@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ming Zhao"
-excerpt: "Short Bio"
+excerpt: "Ming Zhao"
 author_profile: true
 redirect_from: 
   - /about/

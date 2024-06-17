@@ -25,7 +25,9 @@ Education
 
 Work experience
 ==========
-* Graduate Research Assistant in University of Nebraska-Lincoln, Aug. 2023-Present
+* Network System Research Intern in Nokia Bell Labs, Jue. 2024-Present
+
+* Graduate Research Assistant in University of Nebraska-Lincoln, Aug. 2023-May. 2024
   * Research on federated learning in edge computing for autonomous driving and vehicular networks
   * Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning
 

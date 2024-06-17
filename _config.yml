@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ming Zhao's Personal Homepage"
+title                    : "Ming Zhao's Homepage"
 title_separator          : "-"
 name                     : &name "  Ming Zhao"
 description              : &description "Hi,there"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "   "
+  name             : "Ming Zhao"
   avatar           : "myavatar.png"
-  bio              : "Research Assistan,
+  bio              : "Research Assistant,
   School of Computing,
   University of Nebraska-Lincoln"
   location         : "NE, U.S."

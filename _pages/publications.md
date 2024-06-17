@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ming Zhao"
+title: ""
 permalink: /publications/
 author_profile: true
 ---

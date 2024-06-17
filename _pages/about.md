@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ming Zhao"
-excerpt: "Ph.D student"
+title: "Ming Zhao, Ph.D student"
+excerpt: ""
 author_profile: true
 sitemap: false
 redirect_from: 

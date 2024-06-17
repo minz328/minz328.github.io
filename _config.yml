@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Ming Zhao"
   avatar           : "myavatar.png"
-  bio              : "Research Assistant,
-  School of Computing,
-  University of Nebraska-Lincoln"
+  bio              : #""
   location         : #"NE, U.S."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

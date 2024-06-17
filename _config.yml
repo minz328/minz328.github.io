@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ming Zhao"
+title                    : "Ming Zhao's Personal Homepage"
 title_separator          : "-"
 name                     : &name "  Ming Zhao"
 description              : &description "Hi,there"

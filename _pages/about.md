@@ -25,7 +25,7 @@ Education
 
 Work experience
 ==========
-* Network System Research Intern in Nokia Bell Labs, Jue. 2024-Present
+* Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/), Jue. 2024-Present
   * Research on network slicing and network threading in 5G network
   * Research on near-RT RIC in wireless communication
 

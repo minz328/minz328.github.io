@@ -26,8 +26,8 @@ Education
 Work experience
 ==========
 * Network System Research Intern in Nokia Bell Labs, Jue. 2024-Present
- * Research on network slicing and network threading in 5G network
- * Research on near-RT RIC in wireless communication
+  * Research on network slicing and network threading in 5G network
+  * Research on near-RT RIC in wireless communication
 
 * Graduate Research Assistant in University of Nebraska-Lincoln, Aug. 2023-May. 2024
   * Research on federated learning in edge computing for autonomous driving and vehicular networks

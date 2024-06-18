@@ -88,7 +88,7 @@
     clip-path: ellipse(100% 100% at 50% 50%);  //width, the height
 
     @include breakpoint($large) {
-      padding: 5px;
+      // padding: 5px;
       //border: 1px solid $border-color;
     }
   }

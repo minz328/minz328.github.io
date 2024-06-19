@@ -17,18 +17,19 @@ author_profile: true
 
 ------
 
-<ol reversed>
 <script>
-  let count = 0;
-  let lis = document.getElementsByTagName("li");
-  for (let i = lis.length - 1; i >= 0; i--) {
-    count++;
-    lis[i].setAttribute("value", count);
+  function formatList() {
+    let lis = document.getElementsByTagName("li");
+    for (let i = 0; i < lis.length; i++) {
+      let oldHTML = lis[i].innerHTML;
+      lis[i].innerHTML = (i + 1) + ". " + oldHTML.replace(/^\d+\. /, "");
+    }
   }
+  window.onload = formatList;
 </script>
 
+<li><u>M. Zhao</u>, Y. Zhang, Q. Liu, "A New Approach to Incentive Mechanism Design in Federated Learning" in *IEEE Transactions on Mobile Computing*, Jun. 2024 (submitted), [https://arxiv.org/abs/2406.00001](https://arxiv.org/abs/2406.00001)</li>
 <li><u>M. Zhao</u>, Y. Zhang, Q. Liu, "LeFi: Learn to Incentivize Federated Learning in Automotive Edge Computing" in *IEEE GLOBECOM 2024* (submitted), [https://arxiv.org/abs/2311.12720](https://arxiv.org/abs/2311.12720)</li>
 <li>Y. Zhang, <u>M. Zhao</u>, Q. Liu, Nakjung Choi, "Learn to Augment Network Simulators Towards Digital Network Twins" in *IEEE INFOCOM Workshop (NG-OPERA)*, Accepted, Vancouver, CA, May, 2024, [https://arxiv.org/abs/2311.12745](https://arxiv.org/abs/2311.12745)</li>
 <li><u>M. Zhao</u>, C. Chen, L. Liu, D. Lan, S. Wan,"Orbital collaborative learning in 6G space-air-ground integrated networks", in Neurocomputing, Apr. 2022</li>
 <li>L. Liu, <u>M. Zhao</u>, M. Yu, M. Jan, D. Lan, A. Taherkordi,"Mobility-Aware Multi-Hop Task Offloading for Autonomous Driving in Vehicular Edge Computing and Networks", in IEEE Transactions on Intelligent Transportation Systems, Mar. 2022</li>
-</ol>

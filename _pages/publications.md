@@ -11,11 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign count = site.publications | size %}
-{% for post in site.publications reversed %}
-  <div>{{ count }}. <u>{{ post.author }}</u>, {{ post.coauthors }}, "{{ post.title }}" in *{{ post.venue }}*, {{ post.year }}, [{{ post.url }}]({{ post.url }})</div>
-  {% assign count = count | minus: 1 %}
-{% endfor %}
+<!-- {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
 
 ------
 

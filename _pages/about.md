@@ -27,13 +27,13 @@ Education
 Work experience
 ==========
 <p>
-<img  src="images/3953273590_704e3899d5_m.jpg"  width="40"  align="left" />
+<img  src="images/3953273590_704e3899d5_m.jpg"  width="40"  align="right" />
 * Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Present 
   * Research on Hierarchical Orchestration in 5G Network Slicing.
   * Research on Near-RT RIC in wireless communication.
 </p>
 
-* Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Present 
+* ![test]("images/3953273590_704e3899d5_m.jpg")Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Present 
   * Research on Hierarchical Orchestration in 5G Network Slicing.
   * Research on Near-RT RIC in wireless communication.
 

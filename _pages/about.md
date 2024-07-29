@@ -33,7 +33,7 @@ Work experience
   * Research on Near-RT RIC in wireless communication.
 </p>
 
-* ![test](images/3953273590_704e3899d5_m.jpg) Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Present 
+* (images/3953273590_704e3899d5_m.jpg) Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Present 
   * Research on Hierarchical Orchestration in 5G Network Slicing.
   * Research on Near-RT RIC in wireless communication.
 

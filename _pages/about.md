@@ -26,7 +26,7 @@ Education
 
 Work experience
 ==========
-* Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Present <img  src="images/3953273590_704e3899d5_m.jpg"  width="80"/>
+* Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Present <img  src="images/Nokia_Bell_Labs_2023.png"  width="80"/>
   * Research on Hierarchical Orchestration in 5G Network Slicing.
   * Research on Near-RT RIC in wireless communication.
 

@@ -56,14 +56,12 @@ Work experience
   * Research on Near-RT RIC in wireless communication.
 
 * Graduate Research Assistant in University of Nebraska-Lincoln, Aug. 2023-May. 2024.
+
 <img  src="images/Nokia_Bell_Labs_2023.png"  width="100"/>  
   * Research on federated learning in edge computing for autonomous driving and vehicular networks.
   * Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning.
 
-* Graduate Research Assistant in University of Nebraska-Lincoln, Aug. 2023-May. 2024.
-![](images/Nokia_Bell_Labs_2023.png)  
-  * Research on federated learning in edge computing for autonomous driving and vehicular networks.
-  * Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning.
+
 
 ------
 

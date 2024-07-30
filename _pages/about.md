@@ -26,38 +26,18 @@ Education
 
 Work experience
 ==========
-<table style="border: none;">
-<tr>
-<td style="border: none; vertical-align: top;"><img src="images/Nokia_Bell_Labs_2023.png" width="80"/></td>
-<td style="border: none;">
-<ul>
-  <li>Graduate Research Assistant in University of Nebraska-Lincoln, Aug. 2023-May. 2024
-    <ul>
-      <li>Research on federated learning in edge computing for autonomous driving and vehicular networks.</li>
-      <li>Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning.</li>
-    </ul>
-  </li>
-</ul>
-</td>
-</tr>
-</table>
 
 
-
-
-<img  src="images/Nokia_Bell_Labs_2023.png"  width="100"/>
 * Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Present.
     * Research on Hierarchical Orchestration in 5G Network Slicing.
     * Research on Near-RT RIC in wireless communication.
 
 
-* Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Present. <img  src="images/Nokia_Bell_Labs_2023.png"  width="100"/>
+<!-- * Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Present. <img  src="images/Nokia_Bell_Labs_2023.png"  width="100"/>
   * Research on Hierarchical Orchestration in 5G Network Slicing.
-  * Research on Near-RT RIC in wireless communication.
+  * Research on Near-RT RIC in wireless communication. -->
 
 * Graduate Research Assistant in University of Nebraska-Lincoln, Aug. 2023-May. 2024.
-
-<img  src="images/Nokia_Bell_Labs_2023.png"  width="100"/>  
   * Research on federated learning in edge computing for autonomous driving and vehicular networks.
   * Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning.
 

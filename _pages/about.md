@@ -26,10 +26,10 @@ Education
 
 Work experience
 ==========
-<table>
+<table style="border: none;">
 <tr>
-<td><img src="images/Nokia_Bell_Labs_2023.png" width="100"/></td>
-<td>
+<td style="border: none;"><img src="images/test.png" width="100"/></td>
+<td style="border: none;">
 <ul>
   <li>Graduate Research Assistant in University of Nebraska-Lincoln, Aug. 2023-May. 2024
     <ul>
@@ -41,6 +41,7 @@ Work experience
 </td>
 </tr>
 </table>
+
 
 
 <img  src="images/Nokia_Bell_Labs_2023.png"  width="100"/>

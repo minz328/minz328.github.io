@@ -12,8 +12,8 @@ redirect_from:
 Short Bio
 ==========
 I am a first-year Ph.D student in the [School of Computing](https://computing.unl.edu/) at the [University of Nebraska-Lincoln](https://www.unl.edu/), supervised by [Dr. Qiang Liu](https://liuqiang12040913.github.io/index.html). Prior to join UNL, I obtained both my master's degree and bachelor's degree in Telecommunications Engineering from [Xidian University](https://en.xidian.edu.cn/) in 2023 and 2020, respectively. 
-
 My research interests covers several areas, including Wireless Communication, Reinforcement Learning, Edge Computing, Computer Networks.
+
 ------
 
 Education

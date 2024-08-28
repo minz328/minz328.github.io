@@ -17,16 +17,29 @@
   }
 
   a {
+    color: darkblue;  // 将此颜色改为深蓝色
     text-decoration: underline;
 
     &:hover {
-      text-decoration: underline;
+      color: blue;  // 鼠标悬停时的颜色
+      text-decoration: none; //  鼠标悬停时的颜色，去掉下划线
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
   }
+  // a {
+  //   text-decoration: underline;
+
+  //   &:hover {
+  //     text-decoration: underline;
+
+  //     img {
+  //       box-shadow: 0 0 10px rgba(#000, 0.25);
+  //     }
+  //   }
+  // }
 }
 
 .archive__subtitle {

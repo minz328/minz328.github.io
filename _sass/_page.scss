@@ -25,13 +25,23 @@
     padding-left: 6%;
   }
 
+  // .page__inner-wrap {
+  //   @include full();
+
+  //   .page__content,
+  //   .page__meta,
+  //   .page__share {
+  //     @include full();
+  //   }
+  // }
   .page__inner-wrap {
     @include full();
-
+  
     .page__content,
     .page__meta,
     .page__share {
       @include full();
+      text-align: justify; // 这将应用到所有这些子元素上
     }
   }
 }

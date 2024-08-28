@@ -216,8 +216,8 @@
 // }
 
   .visible-links {
-    display: flex;
-    justify-content: center; /* 居中导航项 */
+    display: table;
+    // justify-content: center; /* 居中导航项 */
 
     li {
       display: table-cell;

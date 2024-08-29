@@ -228,20 +228,21 @@
 
         a {
           margin-left: 0;
-          // font-size: 1.2em; /* 增加首个链接的字体大小 */
+          font-size: 1.2em; /* 增加首个链接的字体大小 */
         }
       }
 
       &:last-child {
         a {
           margin-right: 0;
+          font-size: 1.2em; /* 增加所有链接的字体大小 */
         }
       }
     }
 
     a {
       position: relative;
-      // font-size: 1.2em; /* 增加所有链接的字体大小 */
+      font-size: 1.2em; /* 增加所有链接的字体大小 */
 
       &:before {
         content: "";

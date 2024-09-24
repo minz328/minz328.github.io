@@ -181,14 +181,14 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: black;
     text-decoration: none;
 
     &:hover {
       color: $masthead-link-color-hover;
     }
   }
-
+  // color: $masthead-link-color;
   button {
     position: absolute;
     height: 100%;

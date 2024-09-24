@@ -10,7 +10,7 @@ author_profile: true
 ------
 
 * **Student Travel Grant** for the Workshop on Airborne Computing, University of Texas at Arlington, 2023
-* **Chancellor’s Fellowship Award**, University of Nebraska – Lincoln, 2023
+* **Chancellor’s Fellowship Award**, University of Nebraska – Lincoln, 2023,2024
 * **Graduate Research Assistant Fellowship Award**, University of Nebraska – Lincoln, 2023
 * **Excellent Graduate Student Award**, Xidian University, 2023
 * **National Scholarship Award**, China, 2022

@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 
-* <u>Ming Zhao</u>, Yuru Zhang, Qiang Liu, Ahan Kak, Nakjung Choi,"AdaSlicing: Adaptive Online Network Slicing under Continual Network Dynamics in Open Radio Access Networks" in *IEEE INFOCOM 2025-IEEE Conference on Computer Communications, 2025*
+* <u>Ming Zhao</u>, Yuru Zhang, Qiang Liu, Ahan Kak, Nakjung Choi,"AdaSlicing: Adaptive Online Network Slicing under Continual Network Dynamics in Open Radio Access Networks" in IEEE INFOCOM 2025-IEEE Conference on Computer Communications, 2025
 
 * <u>M. Zhao</u>, Y. Zhang, Q. Liu, "[LeFi: Learn to Incentivize Federated Learning in Automotive Edge Computing](https://arxiv.org/abs/2311.12720)" in *IEEE GLOBECOM*, Accepted, Cape Town, South Africa, Dec. 2024.
 * Y. Zhang, <u>M. Zhao</u>, Q. Liu, Nakjung Choi, "[Learn to Augment Network Simulators Towards Digital Network Twins](https://arxiv.org/abs/2311.12745)" in *IEEE INFOCOM Workshop (NG-OPERA)*, Accepted, Vancouver, CA, May. 2024.

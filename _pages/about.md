@@ -44,5 +44,5 @@ My research interests covers several areas, including Wireless Communication, Re
 
 ------
 
-For more information, please see my CV [here](https://minz328.github.io/files/CV_Ming_Zhao.pdf).
+<!-- For more information, please see my CV [here](https://minz328.github.io/files/CV_Ming_Zhao.pdf). -->
 

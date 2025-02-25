@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 
-* <u>M. Zhao</u>, Y. Zhang, Q. Liu, A. Kak, N. Choi,"InSlicing: Interpretable Learning-Assisted Network Slice Configuration in Open Radio Access Networks" in *IEEE INFOCOM Workshop (NG-OPERA 2025)*.
+* <u>M. Zhao</u>, Y. Zhang, Q. Liu, A. Kak, N. Choi,"[InSlicing: Interpretable Learning-Assisted Network Slice Configuration in Open Radio Access Networks](https://arxiv.org/abs/2502.15918)" in *IEEE INFOCOM Workshop (NG-OPERA 2025)*.
 * <u>M. Zhao</u>, Y. Zhang, Q. Liu, A. Kak, N. Choi, "[AdaSlicing: Adaptive Online Network Slicing under Continual Network Dynamics in Open Radio Access Networks](https://arxiv.org/abs/2501.06943)" in *IEEE INFOCOM*, Accepted, 2025.
 * <u>M. Zhao</u>, Y. Zhang, Q. Liu, T Han, "[LeFi: Learn to Incentivize Federated Learning in Automotive Edge Computing](https://arxiv.org/abs/2311.12720)" in *IEEE GLOBECOM*, Accepted, Cape Town, South Africa, Dec. 2024.
 * Y. Zhang, <u>M. Zhao</u>, Q. Liu, N. Choi, "[Learn to Augment Network Simulators Towards Digital Network Twins](https://arxiv.org/abs/2311.12745)" in *IEEE INFOCOM Workshop (NG-OPERA)*, Accepted, Vancouver, CA, May. 2024.

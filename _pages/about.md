@@ -30,6 +30,11 @@ My research interests cover several areas, including Wireless Communication, Rei
   * Research on federated learning in edge computing for autonomous driving and vehicular networks.
   * Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning.
 
+* Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2025-Aug. 2025.
+	* Gained hands-on experience with O-RAN–based 5G network architecture, focusing on communication between near-real-time RIC and RAN.
+  * Learned the development and deployment process of xApps.
+  * Researched methods to improve interpretability in network automation and resource optimization.
+
 * Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Aug. 2024.
     * Research on Hierarchical Orchestration in 5G Network Slicing.
     * Research on Near-RT RIC in wireless communication.
@@ -43,6 +48,3 @@ My research interests cover several areas, including Wireless Communication, Rei
 
 
 ------
-
-<!-- For more information, please see my CV [here](https://minz328.github.io/files/CV_Ming_Zhao.pdf). -->
-

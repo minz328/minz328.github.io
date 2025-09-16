@@ -35,7 +35,7 @@ My research interests cover several areas, including Wireless Communication, Rei
   * Learned the development and deployment process of xApps.
   * Researched methods to improve interpretability in network automation and resource optimization.
 
-* Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Aug. 2024.
+* Network System Research Intern in Nokia Bell Labs at Murray Hill, NJ, Jun. 2024-Aug. 2024.
     * Research on Hierarchical Orchestration in 5G Network Slicing.
     * Research on Near-RT RIC in wireless communication.
 

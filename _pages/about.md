@@ -31,9 +31,8 @@ My research interests cover several areas, including Wireless Communication, Rei
   * Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning.
 
 * Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2025-Aug. 2025.
-	* Gained hands-on experience with O-RAN–based 5G network architecture, focusing on communication between near-real-time RIC and RAN.
-  * Learned the development and deployment process of xApps.
-  * Researched methods to improve interpretability in network automation and resource optimization.
+  * Worked on O-RAN–based 5G architecture, including RIC–RAN communication and xApp deployment; 
+  * Research on interpretability in network automation and resource optimization.
 
 * Network System Research Intern in Nokia Bell Labs at Murray Hill, NJ, Jun. 2024-Aug. 2024.
     * Research on Hierarchical Orchestration in 5G Network Slicing.

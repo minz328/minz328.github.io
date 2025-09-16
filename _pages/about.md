@@ -35,8 +35,8 @@ My research interests cover several areas, including Wireless Communication, Rei
   * Research on interpretability in network automation and resource optimization.
 
 * Network System Research Intern in Nokia Bell Labs at Murray Hill, NJ, Jun. 2024-Aug. 2024.
-	•	Research on hierarchical orchestration for 5G network slicing, focusing on resource allocation and multi-level coordination.
-	•	Research on Near-RT RIC in wireless communication, including its interaction with RAN and potential for intelligent automation.
+	*	Research on hierarchical orchestration for 5G network slicing, focusing on resource allocation and multi-level coordination.
+	*	Research on Near-RT RIC in wireless communication, including its interaction with RAN and potential for intelligent automation.
 
 
 <!-- * Network System Research Intern in [Nokia Bell Labs](https://www.bell-labs.com/) at Murray Hill, NJ, Jun. 2024-Present. <img  src="images/Nokia_Bell_Labs_2023.png"  width="60"/>

@@ -18,12 +18,12 @@
   }
 
   a {
-    color: darkblue;  // 将此颜色改为深蓝色
+    color: darkblue;  // 
     text-decoration: underline;
 
     &:hover {
-      color: blue;  // 鼠标悬停时的颜色
-      text-decoration: none; //  鼠标悬停时的颜色，去掉下划线
+      color: blue;  // 
+      text-decoration: none; //  
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -72,12 +72,12 @@
     border-bottom: none;
   }
   a {
-    color: darkblue;  // 将此颜色改为深蓝色
+    color: darkblue;  // 
     text-decoration: underline;
 
     &:hover {
-      color: blue;  // 鼠标悬停时的颜色
-      text-decoration: none; //  鼠标悬停时的颜色，去掉下划线
+      color: blue;  //
+      text-decoration: none; //  
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);

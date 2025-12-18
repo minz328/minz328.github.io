@@ -12,7 +12,7 @@ redirect_from:
 
 **Short Bio**
 
-I am a third-year Ph.D. student in the School of Computing at the [University of Nebraska-Lincoln](https://www.unl.edu/), supervised by [Dr. Qiang Liu](https://liuqiang12040913.github.io/index.html). Prior to joining UNL, I obtained my M.S. and B.S. degrees in Telecommunications Engineering from [Xidian University](https://en.xidian.edu.cn/) in 2023 and 2020, respectively. My research interests include Wireless Communication, Reinforcement Learning, Edge Computing, and Computer Networks.sdfa
+I am a third-year Ph.D. student in the School of Computing at the [University of Nebraska-Lincoln](https://www.unl.edu/), supervised by [Dr. Qiang Liu](https://liuqiang12040913.github.io/index.html). Prior to joining UNL, I obtained my M.S. and B.S. degrees in Telecommunications Engineering from [Xidian University](https://en.xidian.edu.cn/) in 2023 and 2020, respectively. My research interests include Wireless Communication, Reinforcement Learning, Edge Computing, and Computer Networks.
 
 **Education**
 

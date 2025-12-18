@@ -7,6 +7,10 @@ redirect_from:
   - /service.html
 ---
 
+**Journal Reviewer**
 
-* **Reviewer**, Multimedia Tools and Applications, 2024,2025
-* **Reviewer**, ACM/IEEE Symposium on Edge Computing Posters, 2023
+* *Multimedia Tools and Applications*, 2024, 2025
+
+**Conference Reviewer**
+
+* *ACM/IEEE Symposium on Edge Computing (SEC)*, Posters and Demos, 2023

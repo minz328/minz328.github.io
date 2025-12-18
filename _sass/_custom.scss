@@ -1,0 +1,106 @@
+/* 只让导航里除了第一个以外的菜单项向右移动一些 */
+.greedy-nav .visible-links li:not(:first-child) a {
+    margin-left: 3.1rem;   /* 这里控制「往右挪」的距离，3rem 不够就改大一点，比如 4rem */
+  }
+  
+/* ===== Publications 第二行（作者 + venue + 年份）字体略小 ===== */
+
+.pub-meta {
+    font-size: 0.9em;      /* 比正文小一点，大概 90% 大小 */
+    display: inline-block; /* 和上面那行有一点垂直间距 */
+    margin-top: 0.05rem;
+  }
+
+/* 让页面更宽 - 将 925px 改为你想要的宽度，比如 1200px */
+.wrapper,
+.masthead__inner-wrap,
+#main,
+.breadcrumbs {
+  max-width: 1000px !important;
+}
+
+/* 大屏幕上的宽度 */
+@media (min-width: 80em) {
+  .wrapper,
+  .masthead__inner-wrap,
+  #main,
+  .breadcrumbs,
+  .page__footer footer {
+    max-width: 1400px !important;
+  }
+}
+
+/* 1. My Homepage 往右移动 */
+.greedy-nav .visible-links li:first-child a {
+    margin-left: 0.8rem;  /* 调整这个值，越大越往右 */
+  }
+  
+/* 2. My Homepage 和 About me 之间的间距 */
+.greedy-nav .visible-links li:nth-child(2) a {
+    margin-left: 3.8rem;  /* 调整这个值 */
+  }
+  
+  /* 3. About me 之后的菜单项间距（Publications, Honors & Awards, Service） */
+  .greedy-nav .visible-links li:nth-child(n+3) a {
+    margin-left: 5rem;  /* 调整这个值 */
+  }
+
+/* ===== 侧边栏和内容区 ===== */
+
+/* 减少侧边栏和内容区之间的间距 */
+@media (min-width: 57.8125em) {
+    .page {
+      padding-left: 6%;  /* 原来是 6% */
+    }
+  }
+  
+  /* 头像放大 */
+  .author__avatar img {
+    max-width: 205px;  /* 原来是 175px */
+  }
+
+/* 页面内容超链接样式 */
+.page__content a {
+    color: #007bff;           /* 浅蓝色 */
+    text-decoration: none;    /* 无下划线 */
+  }
+  
+  .page__content a:hover {
+    color: #0056b3;           /* 深蓝色 */
+    text-decoration: underline; /* 有下划线 */
+  }
+
+  /* ===== 导航栏当前页面指示器 ===== */
+
+/* ===== 导航栏当前页面指示器 ===== */
+/* ===== 导航栏当前页面指示器 ===== */
+
+.greedy-nav .visible-links li a.active {
+    color: #494e52;
+    font-weight: 600;
+    position: relative;
+  }
+  
+.greedy-nav .visible-links li a.active::after {
+left: 50%;
+transform: translateX(-50%);
+width: 6px;
+height: 6px;
+border-radius: 50%;
+background-color: #7a8288;
+}
+
+/* Work experience 时间右对齐 */
+.exp-date {
+  float: right;
+  font-weight: normal;
+}
+
+/* Last Updated 样式 */
+/* Last Updated 样式 */
+.last-updated {
+  color: #9ba1a6;
+  font-size: 0.7em;
+  font-style: italic;
+  margin-left: 1rem;       /* 往右移动，调整这个值 */
+}

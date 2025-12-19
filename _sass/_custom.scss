@@ -75,15 +75,12 @@ max-width: 1000px !important;
 /* ===== Navigation bar current page indicator ===== */
 /* ===== Navigation bar current page indicator ===== */
 
-/* ===== 导航栏字体大小和下划线 ===== */
 
-/* About me 等字体变小（不影响 My Homepage） */
 .greedy-nav .visible-links li:not(:first-child) a {
   font-size: 0.8em;
   position: relative;
 }
 
-/* 下划线基础样式 */
 .greedy-nav .visible-links li:not(:first-child) a::after {
   content: "";
   position: absolute;
@@ -119,7 +116,6 @@ margin-left: 1rem;       /* Shift to the right; adjust this value */
 }
 
 
-/* ===== Publication 卡片样式 ===== */
 
 .pub-card {
   background-color: #f8f9fa;

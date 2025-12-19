@@ -32,12 +32,15 @@ I am a third-year Ph.D. student in the School of Computing at the [University of
   * Research on federated learning in edge computing for autonomous driving and vehicular networks.
   * Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning.
 
+<!-- * <span class="exp-date">Jan. 2026 - May 2026</span> Graduate Teaching Assistant at University of Nebraska-Lincoln.
+  * CSCE 464/864: Internet Systems and Programming. -->
+
 * <span class="exp-date">Jun. 2025 - Aug. 2025</span> Network System Research Intern at [Nokia Bell Labs](https://www.bell-labs.com/), Murray Hill, NJ.
-  * Worked on O-RAN-based 5G architecture, including RIC-RAN communication and xApp deployment.
+  * Work on O-RAN-based 5G architecture, including RIC-RAN communication and xApp deployment.
   * Research on interpretability in network automation and resource optimization.
 
 * <span class="exp-date">Jun. 2024 - Aug. 2024</span> Network System Research Intern at Nokia Bell Labs, Murray Hill, NJ.
-  * Researched Hierarchical Orchestration in 5G Network Slicing.
-  * Researched Near-RT RIC in wireless communication.
+  * Research on Hierarchical Orchestration in 5G Network Slicing.
+  * Research on Near-RT RIC in wireless communication.
 
 ------

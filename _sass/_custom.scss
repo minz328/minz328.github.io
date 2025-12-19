@@ -75,19 +75,32 @@ max-width: 1000px !important;
 /* ===== Navigation bar current page indicator ===== */
 /* ===== Navigation bar current page indicator ===== */
 
-.greedy-nav .visible-links li a.active {
-  color: #494e52;
-  font-weight: 600;
+/* ===== 导航栏字体大小和下划线 ===== */
+
+/* About me 等字体变小（不影响 My Homepage） */
+.greedy-nav .visible-links li:not(:first-child) a {
+  font-size: 0.8em;
   position: relative;
 }
 
-.greedy-nav .visible-links li a.active::after {
-left: 50%;
-transform: translateX(-50%);
-width: 6px;
-height: 6px;
-border-radius: 50%;
-background-color: #7a8288;
+/* 下划线基础样式 */
+.greedy-nav .visible-links li:not(:first-child) a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 100%;
+  height: 2px;
+  background-color: #7a8288;
+  transform: scaleX(0);
+  transition: transform 0.2s ease-in-out;
+}
+
+
+
+.greedy-nav .visible-links li a.active {
+  color: #494e52;
+  font-weight: 600;
 }
 
 /* Work experience date right-aligned */
@@ -103,4 +116,54 @@ color: #9ba1a6;
 font-size: 0.7em;
 font-style: italic;
 margin-left: 1rem;       /* Shift to the right; adjust this value */
+}
+
+
+/* ===== Publication 卡片样式 ===== */
+
+.pub-card {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+  border-left: 3px solid #007bff;
+  transition: box-shadow 0.2s ease;
+}
+
+.pub-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.pub-title {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 0.4rem;
+  line-height: 1.4;
+}
+
+.pub-title a {
+  color: #007bff;
+  margin-left: 0.3rem;
+}
+
+.pub-authors {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 0.3rem;
+}
+
+.author-me {
+  color: #007bff;
+  font-weight: 500;
+}
+
+.pub-venue {
+  font-size: 0.85rem;
+  color: #888;
+}
+
+.pub-list-title {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
 }

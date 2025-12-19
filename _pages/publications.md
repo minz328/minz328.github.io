@@ -5,46 +5,44 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=VdsvDfUAAAAJ&hl=zh-CN">my Google Scholar profile</a>.</u>
-{% endif %} -->
-
 {% include base_path %}
 
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-<!-- 
-* <u>M. Zhao</u>, Y. Zhang, Q. Liu, A. Kak, N. Choi,"[InSlicing: Interpretable Learning-Assisted Network Slice Configuration in Open Radio Access Networks](https://arxiv.org/abs/2502.15918)" in *IEEE INFOCOM Workshop (NG-OPERA 2025)*.
-* <u>M. Zhao</u>, Y. Zhang, Q. Liu, A. Kak, N. Choi, "[AdaSlicing: Adaptive Online Network Slicing under Continual Network Dynamics in Open Radio Access Networks](https://arxiv.org/abs/2501.06943)" in *IEEE INFOCOM*, Accepted, 2025.
-* <u>M. Zhao</u>, Y. Zhang, Q. Liu, T Han, "[LeFi: Learn to Incentivize Federated Learning in Automotive Edge Computing](https://arxiv.org/abs/2311.12720)" in *IEEE GLOBECOM*, Accepted, Cape Town, South Africa, Dec. 2024.
-* Y. Zhang, <u>M. Zhao</u>, Q. Liu, N. Choi, "[Learn to Augment Network Simulators Towards Digital Network Twins](https://arxiv.org/abs/2311.12745)" in *IEEE INFOCOM Workshop (NG-OPERA)*, Accepted, Vancouver, CA, May. 2024.
-* <u>M. Zhao</u>, C. Chen, L. Liu, D. Lan, S. Wan,"[Orbital collaborative learning in 6G space-air-ground integrated networks](https://www.sciencedirect.com/science/article/pii/S0925231222004945?casa_token=j0x5on8_Z-MAAAAA:R7HGQKa1Ee2V3g3SyVaxqSXxGXNQZw7TzzeAcGeLTNl1h19RlOd6js-Gq8RVqclLzBvGLEBvQQ)", in *Neurocomputing*, Apr. 2022
-* L. Liu, <u>M. Zhao</u>, M. Yu, M. Jan, D. Lan, A. Taherkordi,"[Mobility-Aware Multi-Hop Task Offloading for Autonomous Driving in Vehicular Edge Computing and Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686591)", in *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*, Mar. 2022 -->
-
-
 **Conference Papers**
-{: .pub-list-title}
 
-* InSlicing: Interpretable Learning-Assisted Network Slice Configuration in Open Radio Access Networks <a href="https://arxiv.org/abs/2502.15918" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a>  
-  <span class="pub-meta">**Ming Zhao**, Yuru Zhang, Qiang Liu, Ahan Kak, Nakjung Choi, *IEEE INFOCOM Workshop (NG-OPERA)*, 2025</span>
+<div style="background-color: #f8f9fa; border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1rem; border-left: 3px solid #ccc;">
+  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.4rem; line-height: 1.4;">InSlicing: Interpretable Learning-Assisted Network Slice Configuration in Open Radio Access Networks <a href="https://arxiv.org/abs/2502.15918" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a></div>
+  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.3rem;"><span style="font-weight: 600;">Ming Zhao</span>, Yuru Zhang, Qiang Liu, Ahan Kak, Nakjung Choi</div>
+  <div style="font-size: 0.85rem; color: #888;"><em>IEEE INFOCOM Workshop (NG-OPERA)</em>, 2025</div>
+</div>
 
-* AdaSlicing: Adaptive Online Network Slicing under Continual Network Dynamics in Open Radio Access Networks <a href="https://ieeexplore.ieee.org/abstract/document/11044475" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a>  
-  <span class="pub-meta">**Ming Zhao**, Yuru Zhang, Qiang Liu, Ahan Kak, Nakjung Choi, *IEEE INFOCOM*, 2025</span>
+<div style="background-color: #f8f9fa; border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1rem; border-left: 3px solid #ccc;">
+  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.4rem; line-height: 1.4;">AdaSlicing: Adaptive Online Network Slicing under Continual Network Dynamics in Open Radio Access Networks <a href="https://ieeexplore.ieee.org/abstract/document/11044475" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a></div>
+  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.3rem;"><span style="font-weight: 600;">Ming Zhao</span>, Yuru Zhang, Qiang Liu, Ahan Kak, Nakjung Choi</div>
+  <div style="font-size: 0.85rem; color: #888;"><em>IEEE INFOCOM</em>, 2025</div>
+</div>
 
-* LeFi: Learn to Incentivize Federated Learning in Automotive Edge Computing <a href="https://ieeexplore.ieee.org/abstract/document/10900959" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a>  
-  <span class="pub-meta">**Ming Zhao**, Yuru Zhang, Qiang Liu, Tao Han, *IEEE GLOBECOM*, 2024</span>
+<div style="background-color: #f8f9fa; border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1rem; border-left: 3px solid #ccc;">
+  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.4rem; line-height: 1.4;">LeFi: Learn to Incentivize Federated Learning in Automotive Edge Computing <a href="https://ieeexplore.ieee.org/abstract/document/10900959" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a></div>
+  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.3rem;"><span style="font-weight: 600;">Ming Zhao</span>, Yuru Zhang, Qiang Liu, Tao Han</div>
+  <div style="font-size: 0.85rem; color: #888;"><em>IEEE GLOBECOM</em>, 2024</div>
+</div>
 
-* Learn to Augment Network Simulators Towards Digital Network Twins <a href="https://ieeexplore.ieee.org/abstract/document/10620840" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a>  
-  <span class="pub-meta">Yuru Zhang, **Ming Zhao**, Qiang Liu, Nakjung Choi, *IEEE INFOCOM Workshop (NG-OPERA)*, 2024</span>
+<div style="background-color: #f8f9fa; border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1rem; border-left: 3px solid #ccc;">
+  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.4rem; line-height: 1.4;">Learn to Augment Network Simulators Towards Digital Network Twins <a href="https://ieeexplore.ieee.org/abstract/document/10620840" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a></div>
+  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.3rem;">Yuru Zhang, <span style="font-weight: 600;">Ming Zhao</span>, Qiang Liu, Nakjung Choi</div>
+  <div style="font-size: 0.85rem; color: #888;"><em>IEEE INFOCOM Workshop (NG-OPERA)</em>, 2024</div>
+</div>
 
 **Journal Papers**
-{: .pub-list-title}
 
-* Mobility-Aware Multi-Hop Task Offloading for Autonomous Driving in Vehicular Edge Computing and Networks <a href="https://ieeexplore.ieee.org/abstract/document/9686591" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a>  
-  <span class="pub-meta">Lei Liu, **Ming Zhao**, Miao Yu, Mian Ahmad Jan, Dapeng Lan, Amirhosein Taherkordi, *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*, 2023</span>
-  
-* Orbital Collaborative Learning in 6G Space-Air-Ground Integrated Networks <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231222004945" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a>  
-  <span class="pub-meta">**Ming Zhao**, Chen Chen, Lei Liu, Dapeng Lan, Shaohua Wan, *Neurocomputing*, 2022</span>
+<div style="background-color: #f8f9fa; border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1rem; border-left: 3px solid #ccc;">
+  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.4rem; line-height: 1.4;">Mobility-Aware Multi-Hop Task Offloading for Autonomous Driving in Vehicular Edge Computing and Networks <a href="https://ieeexplore.ieee.org/abstract/document/9686591" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a></div>
+  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.3rem;">Lei Liu, <span style="font-weight: 600;">Ming Zhao</span>, Miao Yu, Mian Ahmad Jan, Dapeng Lan, Amirhosein Taherkordi</div>
+  <div style="font-size: 0.85rem; color: #888;"><em>IEEE Transactions on Intelligent Transportation Systems (T-ITS)</em>, 2022</div>
+</div>
 
+<div style="background-color: #f8f9fa; border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1rem; border-left: 3px solid #ccc;">
+  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.4rem; line-height: 1.4;">Orbital Collaborative Learning in 6G Space-Air-Ground Integrated Networks <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231222004945" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a></div>
+  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.3rem;"><span style="font-weight: 600;">Ming Zhao</span>, Chen Chen, Lei Liu, Dapeng Lan, Shaohua Wan</div>
+  <div style="font-size: 0.85rem; color: #888;"><em>Neurocomputing</em>, 2022</div>
+</div>

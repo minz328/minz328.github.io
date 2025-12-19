@@ -9,6 +9,7 @@ redirect_from:
 
 **Journal Reviewer**
 
+* *IEEE Wireless Communications Magazine*, 2025
 * *Multimedia Tools and Applications*, 2024, 2025
 
 **Conference Reviewer**

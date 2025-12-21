@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
-  <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>🏆 Chancellor's Fellowship</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">2023, 2024</span></div>
+  <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>🎓 Graduate Research Assistantship</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">2023 - Present</span></div>
   <div style="font-size: 0.85rem; color: #888;">University of Nebraska-Lincoln</div>
 </div>
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
-  <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>🎓 Graduate Research Assistantship</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">2023 - Present</span></div>
+  <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>🏆 Chancellor's Fellowship</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">2023, 2024</span></div>
   <div style="font-size: 0.85rem; color: #888;">University of Nebraska-Lincoln</div>
 </div>
 

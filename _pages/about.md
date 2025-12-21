@@ -12,7 +12,7 @@ redirect_from:
 **👋 Short Bio**
 
 <div style="background-color: #f8f9fa; border-radius: 8px; padding: 1rem 1.2rem; margin-bottom: 1rem;">
-Hi there, I am Ming Zhao, a third-year Ph.D. student in the School of Computing at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>, supervised by <a href="https://liuqiang12040913.github.io/index.html">Dr. Qiang Liu</a>. Prior to joining UNL, I obtained my M.S. and B.S. degrees in Telecommunications Engineering from <a href="https://en.xidian.edu.cn/">Xidian University</a> in 2023 and 2020, respectively. My research interests include Wireless Communication, Reinforcement Learning, Edge Computing, and Computer Networks.
+Hi there, I am Ming Zhao, a third-year Ph.D. student in the School of Computing at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>, supervised by <a href="https://liuqiang12040913.github.io/index.html">Dr. Qiang Liu</a>. Prior to joining UNL, I obtained my M.E. and B.E. degrees in Telecommunications Engineering from <a href="https://en.xidian.edu.cn/">Xidian University</a> in 2023 and 2020, respectively. My research interests include Wireless Communication, Reinforcement Learning, Edge Computing, and Computer Networks.
 </div>
 
 **🎓 Education**
@@ -28,7 +28,7 @@ Hi there, I am Ming Zhao, a third-year Ph.D. student in the School of Computing 
 </div>
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
-  <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>B.S. in Telecommunications Engineering</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Aug. 2016 - Jul. 2020</span></div>
+  <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>B.E. in Telecommunications Engineering</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Aug. 2016 - Jul. 2020</span></div>
   <div style="font-size: 0.85rem; color: #888;">Xidian University</div>
 </div>
 

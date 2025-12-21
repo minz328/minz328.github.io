@@ -23,7 +23,7 @@ Hi there, I am Ming Zhao, a third-year Ph.D. student in the School of Computing 
 </div>
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
-  <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>M.S. in Telecommunications Engineering</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Aug. 2020 - Jul. 2023</span></div>
+  <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>M.E. in Telecommunications Engineering</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Aug. 2020 - Jul. 2023</span></div>
   <div style="font-size: 0.85rem; color: #888;">Xidian University</div>
 </div>
 

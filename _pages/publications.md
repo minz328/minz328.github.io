@@ -9,6 +9,19 @@ author_profile: true
 
 **📄 Conference Papers**
 
+<!-- <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
+  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.2rem; line-height: 1.3;">inRAN: [Full Title TBD]</div>
+  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.15rem;"><span style="text-decoration: underline;">Ming Zhao</span>, [Authors TBD]</div>
+  <div style="font-size: 0.85rem; color: #888; display: flex; justify-content: space-between; align-items: center;"><span><em>IEEE INFOCOM</em>, 2026</span><a href="#" target="_blank" rel="noopener" style="background-color: #e9ecef; color: #555; padding: 2px 6px; border-radius: 4px; font-size: 0.75rem; text-decoration: none;">PDF</a></div>
+</div>
+
+<div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
+  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.2rem; line-height: 1.3;">oneTwin: [Full Title TBD]</div>
+  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.15rem;"><span style="text-decoration: underline;">Ming Zhao</span>, [Authors TBD]</div>
+  <div style="font-size: 0.85rem; color: #888; display: flex; justify-content: space-between; align-items: center;"><span><em>IEEE INFOCOM</em>, 2026</span><a href="#" target="_blank" rel="noopener" style="background-color: #e9ecef; color: #555; padding: 2px 6px; border-radius: 4px; font-size: 0.75rem; text-decoration: none;">PDF</a></div>
+</div> -->
+
+
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
   <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.2rem; line-height: 1.3;">InSlicing: Interpretable Learning-Assisted Network Slice Configuration in Open Radio Access Networks</div>
   <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.15rem;"><span style="text-decoration: underline;">Ming Zhao</span>, Yuru Zhang, Qiang Liu, Ahan Kak, Nakjung Choi</div>

@@ -40,11 +40,11 @@ Hi there, I am Ming Zhao, a third-year Ph.D. student in the School of Computing 
   <div style="font-size: 0.85rem; color: #555;">• Research on federated learning in edge computing for autonomous driving and vehicular networks.<br>• Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning.</div>
 </div>
 
-<!-- <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
+<div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
   <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>Graduate Teaching Assistant</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Jan. 2026 - May 2026</span></div>
   <div style="font-size: 0.85rem; color: #888; margin-bottom: 0.3rem;">University of Nebraska-Lincoln</div>
   <div style="font-size: 0.85rem; color: #555;">• CSCE 464/864: Internet Systems and Programming.</div>
-</div> -->
+</div>
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
   <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>Network System Research Intern</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Jun. 2025 - Aug. 2025</span></div>

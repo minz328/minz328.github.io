@@ -9,17 +9,17 @@ author_profile: true
 
 **📄 Conference Papers**
 
-<!-- <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
-  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.2rem; line-height: 1.3;">inRAN: [Full Title TBD]</div>
-  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.15rem;"><span style="text-decoration: underline;">Ming Zhao</span>, [Authors TBD]</div>
-  <div style="font-size: 0.85rem; color: #888; display: flex; justify-content: space-between; align-items: center;"><span><em>IEEE INFOCOM</em>, 2026</span><a href="#" target="_blank" rel="noopener" style="background-color: #e9ecef; color: #555; padding: 2px 6px; border-radius: 4px; font-size: 0.75rem; text-decoration: none;">PDF</a></div>
+<div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
+  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.2rem; line-height: 1.3;">inRAN: Interpretable Online Bayesian Learning for Network Automation in Open Radio Access Networks</div>
+  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.15rem;"><span style="text-decoration: underline;">Ming Zhao</span>, Yuru Zhang, Qiang Liu, Ahan Kak, Nakjung Choi</div>
+  <div style="font-size: 0.85rem; color: #888; display: flex; justify-content: space-between; align-items: center;"><span><em>Accepted by IEEE INFOCOM</em>, 2026</span></div>
 </div>
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
-  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.2rem; line-height: 1.3;">oneTwin: [Full Title TBD]</div>
-  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.15rem;"><span style="text-decoration: underline;">Ming Zhao</span>, [Authors TBD]</div>
-  <div style="font-size: 0.85rem; color: #888; display: flex; justify-content: space-between; align-items: center;"><span><em>IEEE INFOCOM</em>, 2026</span><a href="#" target="_blank" rel="noopener" style="background-color: #e9ecef; color: #555; padding: 2px 6px; border-radius: 4px; font-size: 0.75rem; text-decoration: none;">PDF</a></div>
-</div> -->
+  <div style="font-weight: 600; font-size: 1rem; color: #333; margin-bottom: 0.2rem; line-height: 1.3;">oneTwin: Online Digital Network Twin via Neural Radio Radiance Field</div>
+  <div style="font-size: 0.9rem; color: #555; margin-bottom: 0.15rem;">Yuru Zhang, <span style="text-decoration: underline;">Ming Zhao</span>, Qiang Liu, Nakjung Choi</div>
+  <div style="font-size: 0.85rem; color: #888; display: flex; justify-content: space-between; align-items: center;"><span><em>Accepted by IEEE INFOCOM</em>, 2026</span></div>
+</div>
 
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">

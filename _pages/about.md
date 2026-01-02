@@ -19,42 +19,42 @@ Hi there, I am Ming Zhao, a third-year Ph.D. student in the School of Computing 
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
   <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>Ph.D. Student in Computer Science</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Aug. 2023 - Present</span></div>
-  <div style="font-size: 0.85rem; color: #888;">University of Nebraska-Lincoln</div>
+  <div style="font-size: 0.85rem; color: #888;">University of Nebraska-Lincoln, NE, US</div>
 </div>
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
   <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>M.E. in Telecommunications Engineering</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Aug. 2020 - Jul. 2023</span></div>
-  <div style="font-size: 0.85rem; color: #888;">Xidian University</div>
+  <div style="font-size: 0.85rem; color: #888;">Xidian University, Xi'an, China</div>
 </div>
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
   <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>B.E. in Telecommunications Engineering</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Aug. 2016 - Jul. 2020</span></div>
-  <div style="font-size: 0.85rem; color: #888;">Xidian University</div>
+  <div style="font-size: 0.85rem; color: #888;">Xidian University, Xi'an, China</div>
 </div>
 
 **💼 Work Experience**
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
   <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>Graduate Research Assistant</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Aug. 2023 - Present</span></div>
-  <div style="font-size: 0.85rem; color: #888; margin-bottom: 0.3rem;">University of Nebraska-Lincoln</div>
-  <div style="font-size: 0.85rem; color: #555;">• Research on AI/ML in Open RAN, e.g., safe and robust deep reinforcement learning.<br>• Research on federated learning in edge computing for autonomous driving and vehicular networks.</div>
+  <div style="font-size: 0.85rem; color: #888; margin-bottom: 0.3rem;">University of Nebraska-Lincoln, NE, US</div>
+  <div style="font-size: 0.85rem; color: #555;">• Research on interpretable AI/ML for network automation in Open RAN, focusing on near-RT RIC xApps for network slicing and radio resource allocation.<br>• Designed adaptive online resource orchestration system with Bayesian learning, implemented and evaluated as xApps on an O-RAN–compliant testbed.</div>
 </div>
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
   <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>Graduate Teaching Assistant</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Jan. 2026 - May 2026</span></div>
-  <div style="font-size: 0.85rem; color: #888; margin-bottom: 0.3rem;">University of Nebraska-Lincoln</div>
+  <div style="font-size: 0.85rem; color: #888; margin-bottom: 0.3rem;">University of Nebraska-Lincoln, NE, US</div>
   <div style="font-size: 0.85rem; color: #555;">• CSCE 464/864: Internet Systems and Programming.</div>
 </div>
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
   <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>Network System Research Intern</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Jun. 2025 - Aug. 2025</span></div>
-  <div style="font-size: 0.85rem; color: #888; margin-bottom: 0.3rem;"><a href="https://www.bell-labs.com/">Nokia Bell Labs</a>, Murray Hill, NJ</div>
+  <div style="font-size: 0.85rem; color: #888; margin-bottom: 0.3rem;"><a href="https://www.bell-labs.com/">Nokia Bell Labs</a>, Murray Hill, NJ, US</div>
   <div style="font-size: 0.85rem; color: #555;">• Work on O-RAN-based 5G architecture, including RIC-RAN communication and xApp deployment.<br>• Research on interpretability in network automation and resource optimization.</div>
 </div>
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">
   <div style="font-weight: 600; color: #333; display: flex; justify-content: space-between;"><span>Network System Research Intern</span><span style="font-weight: normal; color: #888; font-size: 0.85rem;">Jun. 2024 - Aug. 2024</span></div>
-  <div style="font-size: 0.85rem; color: #888; margin-bottom: 0.3rem;">Nokia Bell Labs, Murray Hill, NJ</div>
+  <div style="font-size: 0.85rem; color: #888; margin-bottom: 0.3rem;">Nokia Bell Labs, Murray Hill, NJ, US</div>
   <div style="font-size: 0.85rem; color: #555;">• Research on Hierarchical Orchestration in 5G Network Slicing.<br>• Research on Near-RT RIC in wireless communication.</div>
 </div>
 

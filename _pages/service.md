@@ -21,6 +21,11 @@ redirect_from:
 
 **📄 Conference Reviewer**
 
+<!-- <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.6rem 1rem; margin-bottom: 0.5rem; border-left: 3px solid #ccc; display: flex; justify-content: space-between; align-items: center;">
+  <span style="font-weight: 600; color: #333;">IEEE INFOCOM 2026 - IEEE Conference on Computer Communications</span>
+  <span style="font-size: 0.85rem; color: #888;">Poster, 2026</span>
+</div> -->
+
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.6rem 1rem; margin-bottom: 0.5rem; border-left: 3px solid #ccc; display: flex; justify-content: space-between; align-items: center;">
   <span style="font-weight: 600; color: #333;">ACM/IEEE Symposium on Edge Computing (SEC)</span>
   <span style="font-size: 0.85rem; color: #888;">Posters and Demos, 2023</span>

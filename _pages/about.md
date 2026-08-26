@@ -21,7 +21,7 @@ redirect_from:
     <h3>Ph.D. Candidate in Computer Science</h3>
     <span>Aug. 2023 &ndash; Present</span>
   </div>
-  <p class="entry__meta">University of Nebraska-Lincoln, NE, US &middot; GPA: 4.00/4.00</p>
+  <p class="entry__meta">University of Nebraska-Lincoln, NE, US</p>
 </div>
 
 <div class="entry">
@@ -29,7 +29,7 @@ redirect_from:
     <h3>M.E. in Telecommunications Engineering</h3>
     <span>Aug. 2020 &ndash; Jul. 2023</span>
   </div>
-  <p class="entry__meta">Xidian University, Xi'an, China &middot; GPA: 3.61/4.00</p>
+  <p class="entry__meta">Xidian University, Xi'an, China</p>
 </div>
 
 <div class="entry">
@@ -37,7 +37,7 @@ redirect_from:
     <h3>B.E. in Telecommunications Engineering</h3>
     <span>Aug. 2016 &ndash; Jul. 2020</span>
   </div>
-  <p class="entry__meta">Xidian University, Xi'an, China &middot; GPA: 3.50/4.00</p>
+  <p class="entry__meta">Xidian University, Xi'an, China</p>
 </div>
 
 ## Work Experience

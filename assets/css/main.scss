@@ -177,17 +177,27 @@ img {
 }
 
 .author__links a {
-  padding: 0.1rem 0;
+  padding: 0.08rem 0;
   display: flex;
   align-items: center;
-  gap: 0.6rem;
-  color: #3f4c5b;
+  gap: 0.5rem;
+  color: #394650;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
   font-size: 0.86rem;
   overflow-wrap: anywhere;
 }
 
-.author__links a:hover {
-  color: var(--link);
+.author__links a:visited {
+  color: #394650;
+}
+
+.author__links a:hover,
+.author__links a:focus-visible {
+  color: #202d36;
+  background: transparent;
   text-decoration: none;
 }
 
@@ -197,14 +207,20 @@ img {
 }
 
 .author__link-icon {
-  width: 21px;
-  height: 21px;
-  flex: 0 0 21px;
+  width: 17px;
+  height: 17px;
+  max-width: none;
+  flex: 0 0 17px;
   fill: none;
-  stroke: #1769e8;
-  stroke-width: 1.8;
+  stroke: #60707b;
+  stroke-width: 1.7;
   stroke-linecap: round;
   stroke-linejoin: round;
+}
+
+.author__links a:hover .author__link-icon,
+.author__links a:focus-visible .author__link-icon {
+  stroke: #44535e;
 }
 
 .author__visitor-map {

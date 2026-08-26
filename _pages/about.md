@@ -9,7 +9,9 @@ sitemap: false
 
 ## Short Bio
 
-<p class="intro">Hi there, I am Ming Zhao, a Ph.D. candidate in the School of Computing at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>, supervised by <a href="https://liuqiang12040913.github.io/index.html">Dr. Qiang Liu</a>. Prior to joining UNL, I obtained my M.E. and B.E. degrees in Telecommunications Engineering from <a href="https://en.xidian.edu.cn/">Xidian University</a> in 2023 and 2020, respectively. My research interests include AI for wireless networks, network automation, reinforcement learning, and edge computing.</p>
+<p class="intro">Hi there, I am Ming Zhao, a fourth-year Ph.D. candidate in the School of Computing at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>, supervised by <a href="https://liuqiang12040913.github.io/index.html">Dr. Qiang Liu</a>. Prior to joining UNL, I obtained my M.E. and B.E. degrees in Telecommunications Engineering from <a href="https://en.xidian.edu.cn/">Xidian University</a> in 2023 and 2020, respectively. My research interests include AI for wireless networks, network automation, reinforcement learning, and edge computing.</p>
+
+<p class="intro intro--highlight">During my Ph.D., I have published <strong>two first-author papers at IEEE INFOCOM</strong> and completed <strong>two research internships at Nokia Bell Labs</strong>. My work focuses on interpretable AI and adaptive resource orchestration for Open RAN, with an emphasis on deployable network automation systems.</p>
 
 ## Education
 
@@ -85,4 +87,21 @@ sitemap: false
     <li>Designed an adaptive online network-slicing orchestration framework with per-slice learning agents and hierarchical coordination in O-RAN (patent application published).</li>
     <li>Applied distributed optimization to manage system-wide resource constraints and dynamic slices in the near-RT RIC.</li>
   </ul>
+</div>
+
+## Honors & Awards
+
+<ul class="compact-list">
+  <li><span><strong>Chancellor's Fellowship</strong>, University of Nebraska-Lincoln</span><time>2023, 2024</time></li>
+  <li><span><strong>Student Travel Grant</strong>, Workshop on Airborne Computing, UT Arlington</span><time>2023</time></li>
+  <li><span><strong>Excellent Graduate Student Award</strong>, Xidian University</span><time>2022, 2023</time></li>
+  <li><span><strong>National Scholarship</strong>, Ministry of Education, China</span><time>2022</time></li>
+  <li><span><strong>Academic Scholarship</strong>, Xidian University</span><time>2021</time></li>
+</ul>
+
+## Professional Service
+
+<div class="summary-block">
+  <p><strong>Journal Reviewer:</strong> IEEE Journal of Selected Topics in Signal Processing (2026); IEEE Wireless Communications (2025&ndash;2026); Multimedia Tools and Applications (2024&ndash;2026).</p>
+  <p><strong>Conference Reviewer:</strong> IEEE INFOCOM Posters and Demos (2026); IEEE MOST Posters and Demos (2026); ACM/IEEE Symposium on Edge Computing Posters and Demos (2023).</p>
 </div>

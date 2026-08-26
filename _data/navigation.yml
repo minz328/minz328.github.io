@@ -1,7 +1,5 @@
 main:
-  - title: "About"
+  - title: "About Me"
     url: /
   - title: "Publications"
     url: /publications/
-  - title: "Honors & Service"
-    url: /honors-service/

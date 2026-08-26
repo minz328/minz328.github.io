@@ -167,17 +167,31 @@ img {
   margin: 1rem 0 0;
   padding: 0.9rem 0 0;
   border-top: 1px solid var(--border);
+  display: grid;
+  gap: 0.4rem;
   list-style: none;
 }
 
 .author__links li {
-  margin-bottom: 0.25rem;
+  margin: 0;
 }
 
 .author__links a {
-  color: #50565b;
+  padding: 0.35rem 0.5rem;
+  display: block;
+  border: 1px solid #d8e5ed;
+  border-radius: 4px;
+  color: var(--link);
+  background: var(--accent-soft);
   font-size: 0.86rem;
+  font-weight: 550;
   overflow-wrap: anywhere;
+}
+
+.author__links a:hover {
+  border-color: #b9d0df;
+  background: #eaf3f8;
+  text-decoration: none;
 }
 
 .author__visitor-map {
@@ -217,9 +231,22 @@ img {
   color: #41464b;
 }
 
-.entry,
-.publication {
+.intro + .intro {
+  margin-top: 0.95rem;
+}
+
+.intro--highlight strong {
+  color: #263d4d;
+  font-weight: 700;
+}
+
+.entry {
   padding: 0.85rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.publication {
+  padding: 0.62rem 0;
   border-bottom: 1px solid var(--border);
 }
 
@@ -272,9 +299,10 @@ img {
 }
 
 .publication__authors {
-  margin: 0.25rem 0 0.2rem;
+  margin: 0.15rem 0 0.1rem;
   color: #50565b;
   font-size: 0.88rem;
+  line-height: 1.5;
 }
 
 .author-me {

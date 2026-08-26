@@ -28,7 +28,6 @@ social:
 
 include:
   - _pages
-  - files
 
 exclude:
   - .DS_Store
@@ -43,15 +42,10 @@ exclude:
   - node_modules
   - vendor
 
-encoding: "utf-8"
 markdown: kramdown
-highlighter: rouge
 
 kramdown:
   input: GFM
-  hard_wrap: false
-  auto_ids: true
-  entity_output: as_char
 
 defaults:
   - scope:
@@ -69,8 +63,3 @@ timezone: America/Chicago
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
-
-compress_html:
-  clippings: all
-  ignore:
-    envs: development

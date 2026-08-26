@@ -8,8 +8,8 @@ author_profile: true
 ## Honors & Awards
 
 <div class="entry">
-  <div class="entry__header"><h3>Graduate Research Assistantship</h3><span>2023 &ndash; Present</span></div>
-  <p class="entry__meta">University of Nebraska-Lincoln</p>
+  <div class="entry__header"><h3>Best Paper Award</h3><span>2026</span></div>
+  <p class="entry__meta">RadTwin, International Conference on Computer Communications and Networks (ICCCN)</p>
 </div>
 
 <div class="entry">

@@ -321,6 +321,18 @@ img {
   letter-spacing: 0.03em;
 }
 
+.publication-more {
+  margin: 1.25rem 0 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.publication-more a {
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
 .compact-list {
   margin: 0;
   padding: 0;

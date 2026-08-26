@@ -1,5 +1,5 @@
 locale: "en-US"
-title: "My Homepage"
+title: "Ming Zhao"
 title_separator: "-"
 name: "Ming Zhao"
 description: "Ming Zhao's academic homepage"
@@ -61,4 +61,3 @@ timezone: America/Chicago
 
 plugins:
   - jekyll-sitemap
-  - jekyll-redirect-from

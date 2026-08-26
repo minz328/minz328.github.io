@@ -1,11 +1,11 @@
 {% assign author = site.author %}
 
 <section class="author-profile" itemscope itemtype="https://schema.org/Person">
+  <meta itemprop="name" content="{{ author.name }}">
   <img class="author__avatar" src="{{ '/images/' | append: author.avatar | relative_url }}" alt="{{ author.name }}">
 
   <div class="author__identity">
-    <h2 class="author__name" itemprop="name">{{ author.name }}</h2>
-    <p class="author__role">
+    <p class="author__role" itemprop="jobTitle">
       {{ author.role }}<br>
       {{ author.department }}<br>
       {{ author.institution }}

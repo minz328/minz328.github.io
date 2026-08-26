@@ -5,9 +5,6 @@ seo_title: "Ming Zhao"
 excerpt: ""
 author_profile: true
 sitemap: false
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 ## Short Bio

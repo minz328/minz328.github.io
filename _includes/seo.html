@@ -2,7 +2,7 @@
 {% assign seo_description = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines | escape_once %}
 {% assign canonical_url = page.url | absolute_url | replace: '/index.html', '/' %}
 
-{% if clean_title != '' %}
+{% if clean_title != '' and clean_title != site.title %}
   {% capture seo_title %}{{ clean_title }} {{ site.title_separator }} {{ site.title }}{% endcapture %}
 {% else %}
   {% assign seo_title = site.title %}

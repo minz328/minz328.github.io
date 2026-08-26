@@ -1,32 +1,25 @@
 ---
 permalink: /service/
 title: ""
+seo_title: "Service"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /service.html
 ---
 
-**📚 Journal Reviewer**
+## Journal Reviewer
 
-<div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.6rem 1rem; margin-bottom: 0.5rem; border-left: 3px solid #ccc; display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: 600; color: #333;">IEEE Wireless Communications Magazine</span>
-  <span style="font-size: 0.85rem; color: #888;">2025</span>
+<div class="entry">
+  <div class="entry__header"><h3>IEEE Wireless Communications Magazine</h3><span>2025</span></div>
 </div>
 
-<div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.6rem 1rem; margin-bottom: 0.5rem; border-left: 3px solid #ccc; display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: 600; color: #333;">Multimedia Tools and Applications</span>
-  <span style="font-size: 0.85rem; color: #888;">2024, 2025</span>
+<div class="entry">
+  <div class="entry__header"><h3>Multimedia Tools and Applications</h3><span>2024, 2025</span></div>
 </div>
 
-**📄 Conference Reviewer**
+## Conference Reviewer
 
-<!-- <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.6rem 1rem; margin-bottom: 0.5rem; border-left: 3px solid #ccc; display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: 600; color: #333;">IEEE INFOCOM 2026 - IEEE Conference on Computer Communications</span>
-  <span style="font-size: 0.85rem; color: #888;">Poster, 2026</span>
-</div> -->
-
-<div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.6rem 1rem; margin-bottom: 0.5rem; border-left: 3px solid #ccc; display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-weight: 600; color: #333;">ACM/IEEE Symposium on Edge Computing (SEC)</span>
-  <span style="font-size: 0.85rem; color: #888;">Posters and Demos, 2023</span>
+<div class="entry">
+  <div class="entry__header"><h3>ACM/IEEE Symposium on Edge Computing (SEC)</h3><span>Posters and Demos, 2023</span></div>
 </div>

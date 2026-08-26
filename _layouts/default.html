@@ -5,18 +5,30 @@
 <html lang="{{ site.locale | slice: 0,2 }}">
   <head>
     {% include head.html %}
-    {% include head/custom.html %}
   </head>
 
   <body>
     {% include masthead.html %}
 
-    {{ content }}
+    <div class="site-layout">
+      {% if page.author_profile %}
+        <aside class="sidebar" aria-label="Author profile">
+          {% include author-profile.html %}
+        </aside>
+      {% endif %}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer.html %}
-      </footer>
+      <main id="main-content" class="page">
+        {% if page.title != blank %}
+          <h1 class="page__title">{{ page.title }}</h1>
+        {% endif %}
+        <div class="page__content">
+          {{ content }}
+        </div>
+      </main>
     </div>
+
+    <footer class="site-footer">
+      <p>Last updated: Aug. 2026</p>
+    </footer>
   </body>
 </html>

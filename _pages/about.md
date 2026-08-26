@@ -7,11 +7,7 @@ author_profile: true
 sitemap: false
 ---
 
-## Short Bio
-
-<p class="intro">Hi there, I am Ming Zhao, a fourth-year Ph.D. candidate in the School of Computing at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>, supervised by <a href="https://liuqiang12040913.github.io/index.html">Dr. Qiang Liu</a>. Prior to joining UNL, I obtained my M.E. and B.E. degrees in Telecommunications Engineering from <a href="https://en.xidian.edu.cn/">Xidian University</a> in 2023 and 2020, respectively. My research interests include AI for wireless networks, network automation, reinforcement learning, and edge computing.</p>
-
-<p class="intro intro--highlight">During my Ph.D., I have published <strong>two first-author papers at IEEE INFOCOM</strong> and completed <strong>two research internships at Nokia Bell Labs</strong>. My work focuses on interpretable AI and adaptive resource orchestration for Open RAN, with an emphasis on deployable network automation systems.</p>
+<p class="intro">Hi there, I am Ming Zhao, a fourth-year Ph.D. candidate in the School of Computing at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>, supervised by <a href="https://liuqiang12040913.github.io/index.html">Dr. Qiang Liu</a>. Prior to joining UNL, I obtained my M.E. and B.E. degrees in Telecommunications Engineering from <a href="https://en.xidian.edu.cn/">Xidian University</a> in 2023 and 2020, respectively. My research interests include AI for wireless networks, network automation, reinforcement learning, and edge computing. During my Ph.D., I have published two first-author papers at IEEE INFOCOM and completed two research internships at Nokia Bell Labs.</p>
 
 ## Education
 

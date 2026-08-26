@@ -168,7 +168,7 @@ img {
   padding: 0.9rem 0 0;
   border-top: 1px solid var(--border);
   display: grid;
-  gap: 0.4rem;
+  gap: 0.45rem;
   list-style: none;
 }
 
@@ -177,21 +177,34 @@ img {
 }
 
 .author__links a {
-  padding: 0.35rem 0.5rem;
-  display: block;
-  border: 1px solid #d8e5ed;
-  border-radius: 4px;
-  color: var(--link);
-  background: var(--accent-soft);
+  padding: 0.1rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: #3f4c5b;
   font-size: 0.86rem;
-  font-weight: 550;
   overflow-wrap: anywhere;
 }
 
 .author__links a:hover {
-  border-color: #b9d0df;
-  background: #eaf3f8;
+  color: var(--link);
   text-decoration: none;
+}
+
+.author__links a:hover span {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.author__link-icon {
+  width: 21px;
+  height: 21px;
+  flex: 0 0 21px;
+  fill: none;
+  stroke: #1769e8;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 .author__visitor-map {
@@ -229,15 +242,6 @@ img {
 .intro {
   margin: 0;
   color: #41464b;
-}
-
-.intro + .intro {
-  margin-top: 0.95rem;
-}
-
-.intro--highlight strong {
-  color: #263d4d;
-  font-weight: 700;
 }
 
 .entry {

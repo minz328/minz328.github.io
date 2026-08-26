@@ -306,8 +306,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  hawkins
-  jekyll-feed
   jekyll-sitemap
 
 CHECKSUMS

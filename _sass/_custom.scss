@@ -59,6 +59,32 @@ max-width: 1000px !important;
   max-width: 205px;  /* Originally 175px */
 }
 
+.author__role {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.8;
+}
+
+.author__urls li hr {
+  margin: 15px 0;
+  border: 0;
+  border-top: 1px solid #eee;
+}
+
+.author__visitor-map {
+  margin-top: 20px;
+  margin-left: -30px;
+}
+
+.author__updated {
+  margin-top: 100px;
+  color: #9ba1a6;
+  font-size: 0.75em;
+  font-style: italic;
+  text-align: center;
+}
+
 /* Hyperlink style inside page content */
 .page__content a {
   color: #007bff;           /* Light blue */

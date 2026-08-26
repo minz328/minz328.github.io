@@ -1,33 +1,9 @@
-# main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
   - title: "About me"
     url: /
-
-
   - title: "Publications"
     url: /publications/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
   - title: "Honors & Awards"
     url: /honorsawards/
-
-          
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-  
   - title: "Service"
     url: /service/
-  

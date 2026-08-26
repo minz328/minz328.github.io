@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
 **📄 Conference Papers**
 
 <div style="background-color: #f8f9fa; border-radius: 6px; padding: 0.7rem 1rem; margin-bottom: 0.6rem; border-left: 3px solid #ccc;">

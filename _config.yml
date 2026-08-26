@@ -40,12 +40,7 @@ exclude:
   - LICENSE
   - README.md
   - assets/.DS_Store
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - how_to_modify_locally.txt
   - node_modules
-  - package.json
   - vendor
 
 encoding: "utf-8"
@@ -67,7 +62,6 @@ defaults:
       author_profile: true
 
 sass:
-  sass_dir: _sass
   style: compressed
 
 timezone: America/Chicago

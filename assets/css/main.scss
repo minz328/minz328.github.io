@@ -445,12 +445,10 @@ img {
 }
 
 .summary-block {
-  padding: 0.85rem 1rem;
-  border: 1px solid var(--border);
-  border-left: 3px solid var(--accent);
-  border-radius: 5px;
-  background: var(--accent-soft);
+  padding: 0.75rem 0.55rem 0.85rem;
+  border-bottom: 1px solid var(--border);
   color: #46515a;
+  background: transparent;
   font-size: 0.9rem;
 }
 

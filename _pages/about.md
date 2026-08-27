@@ -66,7 +66,7 @@ sitemap: false
     <h3>Network System Research Intern</h3>
     <span>Jun. 2025 &ndash; Aug. 2025</span>
   </div>
-  <p class="entry__meta"><a href="https://www.bell-labs.com/">Nokia Bell Labs</a>, Murray Hill, NJ, US</p>
+  <p class="entry__meta">Nokia Bell Labs, Murray Hill, NJ, US</p>
   <ul class="entry__details">
     <li>Proposed a dual-layer interpretability framework that integrates expert knowledge into AI-driven network automation for transparent decision-making (patent filed).</li>
     <li>Designed a transformation mechanism to convert black-box AI models into explainable systems for network resource management, including RIC-RAN communication and xApp deployment in O-RAN.</li>

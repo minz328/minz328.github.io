@@ -7,7 +7,7 @@ author_profile: true
 sitemap: false
 ---
 
-<p class="intro">Hi there, I am Ming Zhao, a fourth-year Ph.D. candidate in the School of Computing at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>, supervised by <a href="https://liuqiang12040913.github.io/index.html">Dr. Qiang Liu</a>. Prior to joining UNL, I obtained my M.E. and B.E. degrees in Telecommunications Engineering from <a href="https://en.xidian.edu.cn/">Xidian University</a> in 2023 and 2020, respectively. My research interests include AI for wireless networks, network automation, reinforcement learning, and edge computing. During my Ph.D., I have published first-author papers at top conferences, including IEEE INFOCOM and IEEE GLOBECOM, and completed two research internships at <a href="https://www.nokia.com/bell-labs/">Nokia Bell Labs</a>.</p>
+<p class="intro">Hi there, I am Ming Zhao, a fourth-year Ph.D. candidate in the School of Computing at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>, supervised by <a href="https://liuqiang12040913.github.io/index.html">Dr. Qiang Liu</a>. Prior to joining UNL, I obtained my M.E. and B.E. degrees in Telecommunications Engineering from <a href="https://en.xidian.edu.cn/">Xidian University</a> in 2023 and 2020, respectively. During my Ph.D., I have published first-author papers at top conferences, including IEEE INFOCOM and IEEE GLOBECOM, and completed two research internships at <a href="https://www.nokia.com/bell-labs/">Nokia Bell Labs</a>.</p>
 
 ## Education
 

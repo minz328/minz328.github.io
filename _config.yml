@@ -17,6 +17,11 @@ author:
   email: "mzhao7@huskers.unl.edu"
   googlescholar: "https://scholar.google.com/citations?user=VdsvDfUAAAAJ&hl=en&oi=sra"
   linkedin: "ming-zhao-"
+  research_interests:
+    - "AI for Wireless Networks"
+    - "Network Automation"
+    - "Reinforcement Learning"
+    - "Edge Computing"
 
 social:
   type: "Person"

@@ -37,4 +37,4 @@ author_profile: true
   <div class="publication__meta"><span><em>Neurocomputing</em>, vol. 497, pp. 94-109, 2022</span><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231222004945" target="_blank" rel="noopener">PDF</a></div>
 </article>
 
-<p class="publication-more">For a complete publication list, please visit my <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar profile</a>.</p>
+<p class="publication-more">See more on my <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>.</p>

@@ -98,7 +98,7 @@ sitemap: false
 ## Skills
 
 <div class="summary-block">
-  <p>Python, C/C++, MATLAB, PyTorch, Linux, Git, Docker, Open RAN, near-RT RIC, xApps, network slicing, private 5G/CBRS, interpretable AI/ML, reinforcement learning, federated learning, distributed optimization, edge computing; Chinese (Native), English (Fluent).</p>
+  <p>Python, C/C++, MATLAB, Linux, Git, Docker, AI, machine learning, reinforcement learning; Chinese (Native), English (Fluent).</p>
 </div>
 
 ## Professional Service

@@ -95,10 +95,15 @@ sitemap: false
   <li><span><strong>Academic Scholarship</strong>, Xidian University</span><time>2021</time></li>
 </ul>
 
+## Skills
+
+<div class="summary-block">
+  <p>Python, C/C++, MATLAB, PyTorch, Linux, Git, Docker, Open RAN, near-RT RIC, xApps, network slicing, private 5G/CBRS, interpretable AI/ML, reinforcement learning, federated learning, distributed optimization, edge computing; Chinese (Native), English (Fluent).</p>
+</div>
+
 ## Professional Service
 
 <div class="summary-block">
   <p><strong>Journal Reviewer:</strong> IEEE Journal of Selected Topics in Signal Processing (2026); IEEE Wireless Communications (2025&ndash;2026); Multimedia Tools and Applications (2024&ndash;2026).</p>
   <p><strong>Conference Reviewer:</strong> IEEE INFOCOM Posters and Demos (2026); IEEE MOST Posters and Demos (2026); ACM/IEEE Symposium on Edge Computing Posters and Demos (2023).</p>
-  <p><strong>Skills:</strong> Python, C/C++, MATLAB, PyTorch, Linux, Git, Docker; Chinese (Native), English (Fluent).</p>
 </div>

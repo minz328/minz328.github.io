@@ -85,35 +85,6 @@ sitemap: false
   </ul>
 </div>
 
-## Technical Skills
-
-<dl class="skill-list">
-  <div class="skill-list__item">
-    <dt>Programming Languages</dt>
-    <dd>Python, C/C++, MATLAB</dd>
-  </div>
-  <div class="skill-list__item">
-    <dt>Tools &amp; Platforms</dt>
-    <dd>PyTorch, Linux, Git, Docker</dd>
-  </div>
-  <div class="skill-list__item">
-    <dt>Wireless &amp; Networking</dt>
-    <dd>Open RAN, near-RT RIC, xApps, network slicing, private 5G/CBRS</dd>
-  </div>
-  <div class="skill-list__item">
-    <dt>AI &amp; Learning</dt>
-    <dd>Interpretable AI/ML, reinforcement learning, Bayesian learning, federated learning</dd>
-  </div>
-  <div class="skill-list__item">
-    <dt>Optimization &amp; Systems</dt>
-    <dd>Distributed optimization, resource orchestration, edge computing, digital network twins</dd>
-  </div>
-  <div class="skill-list__item">
-    <dt>Languages</dt>
-    <dd>Chinese (Native), English (Fluent)</dd>
-  </div>
-</dl>
-
 ## Honors & Awards
 
 <ul class="compact-list">
@@ -129,4 +100,5 @@ sitemap: false
 <div class="summary-block">
   <p><strong>Journal Reviewer:</strong> IEEE Journal of Selected Topics in Signal Processing (2026); IEEE Wireless Communications (2025&ndash;2026); Multimedia Tools and Applications (2024&ndash;2026).</p>
   <p><strong>Conference Reviewer:</strong> IEEE INFOCOM Posters and Demos (2026); IEEE MOST Posters and Demos (2026); ACM/IEEE Symposium on Edge Computing Posters and Demos (2023).</p>
+  <p><strong>Skills:</strong> Python, C/C++, MATLAB, PyTorch, Linux, Git, Docker; Chinese (Native), English (Fluent).</p>
 </div>

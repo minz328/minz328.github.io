@@ -413,31 +413,6 @@ img {
   list-style: none;
 }
 
-.skill-list {
-  margin: 0;
-  padding: 0;
-}
-
-.skill-list__item {
-  padding: 0.75rem 0.55rem;
-  display: grid;
-  grid-template-columns: 185px minmax(0, 1fr);
-  gap: 1rem;
-  border-bottom: 1px solid var(--border);
-  color: #46515a;
-  font-size: 0.9rem;
-  transition: background-color 160ms ease;
-}
-
-.skill-list__item dt {
-  color: var(--text);
-  font-weight: 600;
-}
-
-.skill-list__item dd {
-  margin: 0;
-}
-
 .compact-list li {
   padding: 0.75rem 0.55rem;
   display: flex;
@@ -452,7 +427,6 @@ img {
 @media (hover: hover) {
   .entry:hover,
   .publication:hover,
-  .skill-list__item:hover,
   .compact-list li:hover {
     background: #f8fafb;
   }
@@ -634,11 +608,6 @@ img {
   .compact-list li {
     flex-direction: column;
     gap: 0.15rem;
-  }
-
-  .skill-list__item {
-    grid-template-columns: minmax(0, 1fr);
-    gap: 0.12rem;
   }
 
   .compact-list time {

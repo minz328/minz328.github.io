@@ -85,6 +85,35 @@ sitemap: false
   </ul>
 </div>
 
+## Technical Skills
+
+<dl class="skill-list">
+  <div class="skill-list__item">
+    <dt>Programming Languages</dt>
+    <dd>Python, C/C++, MATLAB</dd>
+  </div>
+  <div class="skill-list__item">
+    <dt>Tools &amp; Platforms</dt>
+    <dd>PyTorch, Linux, Git, Docker</dd>
+  </div>
+  <div class="skill-list__item">
+    <dt>Wireless &amp; Networking</dt>
+    <dd>Open RAN, near-RT RIC, xApps, network slicing, private 5G/CBRS</dd>
+  </div>
+  <div class="skill-list__item">
+    <dt>AI &amp; Learning</dt>
+    <dd>Interpretable AI/ML, reinforcement learning, Bayesian learning, federated learning</dd>
+  </div>
+  <div class="skill-list__item">
+    <dt>Optimization &amp; Systems</dt>
+    <dd>Distributed optimization, resource orchestration, edge computing, digital network twins</dd>
+  </div>
+  <div class="skill-list__item">
+    <dt>Languages</dt>
+    <dd>Chinese (Native), English (Fluent)</dd>
+  </div>
+</dl>
+
 ## Honors & Awards
 
 <ul class="compact-list">

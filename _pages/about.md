@@ -12,16 +12,21 @@ sitemap: false
 <p class="availability">I am actively seeking full-time opportunities in 2027, including but not limited to Research Scientist, Applied Scientist, and AI/ML Engineer roles related to AI-RAN, wireless systems, and network intelligence.</p>
 
 <div class="news-panel">
-  <h2 class="news-title" id="news-title">News</h2>
+  <h2 class="news-title" id="news-title" aria-label="News" title="News">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+      <path d="M4 8H2v11a2 2 0 0 0 2 2h15a2 2 0 0 0 2-2V4H4v15"></path>
+      <path d="M8 8h9M8 12h9M8 16h5"></path>
+    </svg>
+  </h2>
   <div class="news-window" tabindex="0" role="region" aria-labelledby="news-title">
     <ul class="news-list">
-      <li><time datetime="2026">[2026]</time><p>Our paper inRAN appeared at IEEE INFOCOM 2026.</p></li>
-      <li><time datetime="2025-11">[Nov. 2025]</time><p>I attended the first OAI Foundation U.S. hands-on workshop at UT Austin.</p></li>
-      <li><time datetime="2025-08">[Aug. 2025]</time><p>I completed my second research internship at Nokia Bell Labs.</p></li>
-      <li><time datetime="2025">[2025]</time><p>Our papers AdaSlicing and InSlicing appeared at IEEE INFOCOM and its NG-OPERA Workshop.</p></li>
-      <li><time datetime="2024-08">[Aug. 2024]</time><p>I completed my first research internship at Nokia Bell Labs.</p></li>
-      <li><time datetime="2023-10">[Oct. 2023]</time><p>I attended the Airborne Computing Workshop at UT Arlington Research Institute.</p></li>
-      <li><time datetime="2023-09">[Sep. 2023]</time><p>I attended the ARA public launch at Iowa State University.</p></li>
+      <li><time datetime="2026">[2026]</time><p>Our paper inRAN appears at IEEE INFOCOM 2026.</p></li>
+      <li><time datetime="2025-11">[Nov. 2025]</time><p>I attend the first OAI Foundation U.S. hands-on workshop at UT Austin.</p></li>
+      <li><time datetime="2025-08">[Aug. 2025]</time><p>I wrap up my second research internship at Nokia Bell Labs.</p></li>
+      <li><time datetime="2025">[2025]</time><p>Our papers AdaSlicing and InSlicing appear at IEEE INFOCOM and its NG-OPERA Workshop.</p></li>
+      <li><time datetime="2024-08">[Aug. 2024]</time><p>I wrap up my first research internship at Nokia Bell Labs.</p></li>
+      <li><time datetime="2023-10">[Oct. 2023]</time><p>I attend the Airborne Computing Workshop at UT Arlington Research Institute.</p></li>
+      <li><time datetime="2023-09">[Sep. 2023]</time><p>I attend the ARA public launch at Iowa State University.</p></li>
     </ul>
   </div>
 </div>

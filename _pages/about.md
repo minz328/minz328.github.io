@@ -11,6 +11,20 @@ sitemap: false
 
 <p class="availability">I am actively seeking full-time opportunities in 2027, including but not limited to Research Scientist, Applied Scientist, and AI/ML Engineer roles related to AI-RAN, wireless systems, and network intelligence.</p>
 
+## News
+
+<div class="news-window" tabindex="0" aria-label="News archive; scroll for earlier updates">
+  <ul class="news-list">
+    <li><time datetime="2026">2026</time><p>Published a first-author paper at IEEE INFOCOM 2026.</p></li>
+    <li><time datetime="2025-11">Nov. 2025</time><p>Attended the First OAI Foundation U.S. Hands-on Workshop at the University of Texas at Austin.</p></li>
+    <li><time datetime="2025-08">Aug. 2025</time><p>Completed a research internship at Nokia Bell Labs.</p></li>
+    <li><time datetime="2025">2025</time><p>Published two first-author papers at IEEE INFOCOM 2025 and its NG-OPERA Workshop.</p></li>
+    <li><time datetime="2024-08">Aug. 2024</time><p>Completed a research internship at Nokia Bell Labs.</p></li>
+    <li><time datetime="2023-10">Oct. 2023</time><p>Attended the Workshop on Enhanced Open Networked Airborne Computing Platform at the University of Texas at Arlington Research Institute.</p></li>
+    <li><time datetime="2023-09">Sep. 2023</time><p>Attended the Agriculture and Rural Communities (ARA) Public Launch at Iowa State University.</p></li>
+  </ul>
+</div>
+
 ## Education
 
 <div class="entry">

@@ -335,20 +335,20 @@ img {
 
 .page__content .news-title {
   margin: 0;
-  padding: 0.4rem 0.75rem;
+  padding: 0.3rem 0.65rem;
   border: 0;
   border-bottom: 1px solid #eceef0;
   border-radius: 0;
   background: #fafafa;
   color: #59616a;
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   font-weight: 600;
   line-height: 1.4;
   letter-spacing: 0;
 }
 
 .news-window {
-  height: 8.25rem;
+  height: 4.875rem;
   overflow-y: auto;
   overscroll-behavior: contain;
   scrollbar-gutter: stable;
@@ -368,11 +368,10 @@ img {
 }
 
 .news-list li {
-  min-height: 2.75rem;
-  padding: 0.4rem 0.75rem;
+  padding: 0.25rem 0.65rem;
   display: grid;
-  grid-template-columns: 4.6rem minmax(0, 1fr);
-  gap: 0.6rem;
+  grid-template-columns: 4.3rem minmax(0, 1fr);
+  gap: 0.4rem;
   align-items: baseline;
   border-bottom: 1px solid #f0f1f3;
 }
@@ -383,18 +382,18 @@ img {
 
 .news-list time {
   color: #737b83;
-  font-size: 0.76rem;
+  font-size: 0.72rem;
   font-weight: 400;
   font-variant-numeric: tabular-nums;
-  line-height: 1.5;
+  line-height: 1.4;
   white-space: nowrap;
 }
 
 .news-list p {
   margin: 0;
   color: #59616a;
-  font-size: 0.82rem;
-  line-height: 1.5;
+  font-size: 0.75rem;
+  line-height: 1.4;
 }
 
 .entry {
@@ -679,14 +678,7 @@ img {
   }
 
   .news-window {
-    height: 11.5rem;
-  }
-
-  .news-list li {
-    padding-right: 0.65rem;
-    padding-left: 0.65rem;
-    grid-template-columns: 4.4rem minmax(0, 1fr);
-    gap: 0.45rem;
+    height: 8rem;
   }
 
   .entry__header,
